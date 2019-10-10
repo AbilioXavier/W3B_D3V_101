@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	background-color: #555555;
+	background-image: url("img/indexBackgroundImg.png");
+}
+
+a {
+	text-decoration: none;
+	color: #000044;
+}
