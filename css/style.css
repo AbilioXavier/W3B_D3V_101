@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	background-color: #555555;
+	background-image: url("img/indexBackgroundImg.png");
+}
+
+table, thead, tr, th, td {
+	border-style: solid;
+	background-color: #777777;
+	margin: auto;
+	padding: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: #000044;
+}
