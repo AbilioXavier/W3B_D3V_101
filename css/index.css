@@ -1,7 +1,8 @@
 body {
 	text-align: center;
 	background-color: #555555;
-	background-image: url("img/indexBackgroundImg.png");
+	
+
 }
 
 table, thead, tr, th, td {
@@ -17,9 +18,12 @@ a {
 }
 
 caption {
+	background-image: url("../img/indexBackgroundImg.png");
+	
 	margin: 4px;
 	padding: 4px;
 	font-family: cursive;
 	font-weight: bold;
 	word-spacing: 3px;
+	color: #111111;
 }
